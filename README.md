@@ -48,8 +48,8 @@ streamlit run app.py
 
 ##Clone the Repository
 ```bash
-git clone https://github.com/your-username/predictive-maintenance.git
-cd predictive-maintenance
+https://github.com/Pandi-2006/NaanMudhalvan.git
+cd NaanMudhalvan
 ```
 
 This will launch the application in your web browser.
