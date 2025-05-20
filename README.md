@@ -46,6 +46,11 @@ Navigate to the cloned repository in your terminal or command prompt, then run t
 streamlit run app.py
 ```
 
+##Clone the Repository
+```bash
+git clone https://github.com/your-username/predictive-maintenance.git
+cd predictive-maintenance
+```
 
 This will launch the application in your web browser.
 
@@ -70,13 +75,3 @@ The synthetic dataset provided in this application reflects real predictive main
 ## Model Details
 
 The predictive model used in this application is a Random Forest Classifier, a powerful ensemble learning method that can handle both numerical and categorical features. The model is trained on the synthetic dataset and can predict whether the machine will experience failure based on the input parameters.
-
-## Disclaimer
-
-This application uses a synthetic dataset for illustrative purposes. Real predictive maintenance datasets might differ in complexity and distribution. The predictions made by the model are based on the provided inputs and do not guarantee real-world results. Use this application for educational and demonstration purposes only.
-
-Feel free to explore the application and experiment with different input values to observe how the predictive model performs for predictive maintenance classification.
-
----
-*Author: [Rushikesh Kothawade]*
-*Date: [05/08/2023]*
